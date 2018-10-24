@@ -1,0 +1,7 @@
+{
+  "name": "ionic-rss",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
